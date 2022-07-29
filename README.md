@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Loveday P. Obi
 - 👀 I’m interested in Cloud Computing
 - 🌱 I’m currently an AWS Cloud Engineer & Solutions Architect
-- 💞️ I’m looking to collaborate on AWS matters
+- 💞️ I’m looking to collaborate on AWS matters and I'm open to work
 - 📫 How to reach me: Email- chiphills19@gmail.com
 
 <!---
